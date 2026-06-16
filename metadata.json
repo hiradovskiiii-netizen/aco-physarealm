@@ -1,0 +1,6 @@
+{
+  "name": "ACO & Physarealm Music Sync Guide and Simulation",
+  "description": "An interactive laboratory and structured guide for synchronizing Grasshopper's Physarealm (Physarum polycephalum) and Ant Colony Optimization (ACO) with audio frequencies to generate musical spatial architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
